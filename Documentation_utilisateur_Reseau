@@ -1,0 +1,18 @@
+Documentations utilisateur.
+
+
+La fonction client prend en paramètre 2 arguments 
+1er : le chemin du nom vers le fichier contenant la liste des serveurs racines.
+2eme : le chemin du nom vers le fichier contenant la liste des noms à résoudre.
+Il vous sera ensuite demandé d'ajouter si vous le souhaitez un nom par exemple 'www.example.fr' supplémentaire, si vous ne souhaitez pas faite 'retour chariot'
+
+
+La fonction serveur prend en parmètre 4 argument
+
+1er : le chemin du nom vers le fichier de description du domaine
+2eme : un entier correspondant au port d'adresse ipv4 du serveur
+3eme : un entier  correspondant au port d'adresse ipv6 du serveur
+4eme : un entier correspondant au nombre de seconde utilisé pour la fonction sleep
+
+
+
